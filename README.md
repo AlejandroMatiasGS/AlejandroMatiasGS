@@ -18,13 +18,10 @@
 
 
 ---
-<div class="flex items-center justify-center">
-  <p align="justify" class="py-28">
-   🎓 <strong>Técnico en Programación y Análisis de Sistemás</strong> - <strong>DuocUC</strong><br>
-    🔧 <strong>Backend & Frontend Developer</strong> | <strong>Node.js</strong> ⚡ <strong>React.js</strong> ⚙️ <strong>Next.js</strong> 🛠️ <strong>Express.js</strong><br>
-    📊 <strong>Bases de Datos</strong>: <strong>PostgreSQL</strong> 🗃️ <strong>MySQL</strong> 💡 <strong>Prisma</strong><br>
-    🧑‍💻 <strong>Lenguajes</strong>: <strong>Java</strong> 🧑‍💻 <strong>Python</strong> 🎯 <strong>TypeScript</strong> <strong>JavaScript</strong><br>
-    💬 <strong>Análisis de Requerimientos</strong>
+<div align="center">
+  <p align="center">
+    🎓 <strong>Técnico en Programación y Análisis de Sistemás</strong> - <strong>DuocUC</strong><br>
+    💡 <strong>Desarrollador Fullstack</strong>
   </p>
 </div>
 
@@ -33,24 +30,20 @@
 ---
 
 
-### 🔥 **Backend Developer (70%) | Frontend Developer (30%)** 🔥
+### 🔥 Habilidades Técnicas 🔥
 
-💻 **Creador de soluciones tecnológicas**  
-📚 Con experiencia en análisis de requerimientos y desarrollo de software
+- **Lenguajes de programación**: Javascript, Java, C#, Python.
+  
+- **Bases de datos**: SQL (SQL Server, MYSQL, PostgreSQL), Oracle, MongoDB.
+  
+- **Backend**: Express.js para el backend (JWT, CSRF, WebSockets). Creación de APIs RESTful, manejo de bases de datos (MongoDB, PostgreSQL, MySQL, SQLite).
 
----
+- **Frotend**:
+    - **ReactJS**.
+    - **NextJS**.
+    - **VueJS**.
+ 
+- **Herramientas**:
+    - Versionamiento de código (GIT).
 
-### 🛠 **Mi Stack de desarrollo**  
-- **Frontend**: **React.js**, **Next.js**, **Ionic** (Angular), **Flutter**  
-- **Backend**: **Node.js**, **Express.js**  
-- **Bases de Datos**: **PostgreSQL**, **MySQL**, **Oracle SQL Developer**, **Prisma**  
-- **Lenguajes**: **Java**, **Python**, **TypeScript**  
-- **Otras Herramientas**: **Data Modeler**, **Django**, **JavaScript**, **Tailwind CSS**
-
----
-
-### ✨ **Lo que mejor hago**  
-- **Frontend**: Desarrollo de interfaces de usuario dinámicas y optimizadas con **React.js**, **Next.js**, **Bootstrap** y **Tailwind CSS**.
-- **Backend**: Construcción de APIs robustas y escalables con **Node.js** y **Express.js**.
-- **Bases de Datos**: Diseño y modelado de bases de datos eficientes con **PostgreSQL** , **MySQL** ,**Oracle Data Modeler** y conocimiento en **PL/SQL**.
-- **Lenguajes de Programación**: **Java** y **Python** 
+- **Frameworks** / **Entornos**: NodeJS, ReactJS, NextJS, Flutter, Django, Bootstrap, Tailwind.
