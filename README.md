@@ -1,34 +1,32 @@
+<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+
 <div align="center">
-  <h1 style="font-weight: bold; font-size: 43px; margin: 0;">Daniel Contador</h1> 
+  <h1 style="font-weight: bold; font-size: 43px; margin: 0;">Alejandro González Stuardo</h1> 
 </div>
 
 
 <p align="center">
-  <a href="https://github.com/DanielContador">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/dcontador">
+  <a href="https://www.linkedin.com/in/alejandrogonzstuardo/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://pagina-portafolio-ten.vercel.app/index.html">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 <div align="center">
-  <h3 style="font-weight: bold; font-size: 21px; margin: 0;">Desarrollador de Software 🚀</h1> 
+  <h3 style="font-weight: bold; font-size: 21px; margin: 0;">Desarrollador de Software 💻📱</h1> 
 </div>
 
 
 
 ---
-<p align="center">
- 🎓 <strong>Ingeniero en Informática</strong> - <strong>DuocUC</strong><br>
-  🔧 <strong>Backend & Frontend Developer</strong> | <strong>Node.js</strong> ⚡ <strong>React.js</strong> ⚙️ <strong>Next.js</strong> 🛠️ <strong>Express.js</strong><br>
-  📊 <strong>Bases de Datos</strong>: <strong>PostgreSQL</strong> 🗃️ <strong>MySQL</strong> 💡 <strong>Prisma</strong><br>
-  🧑‍💻 <strong>Lenguajes</strong>: <strong>Java</strong> 🧑‍💻 <strong>Python</strong> 🎯 <strong>TypeScript</strong> <strong>JavaScript</strong><br>
-  💬 <strong>Análisis de Requerimientos</strong>
-</p>
+<div class="flex items-center justify-center">
+  <p align="justify">
+   🎓 <strong>Técnico en Programación y Análisis de Sistemás</strong> - <strong>DuocUC</strong><br>
+    🔧 <strong>Backend & Frontend Developer</strong> | <strong>Node.js</strong> ⚡ <strong>React.js</strong> ⚙️ <strong>Next.js</strong> 🛠️ <strong>Express.js</strong><br>
+    📊 <strong>Bases de Datos</strong>: <strong>PostgreSQL</strong> 🗃️ <strong>MySQL</strong> 💡 <strong>Prisma</strong><br>
+    🧑‍💻 <strong>Lenguajes</strong>: <strong>Java</strong> 🧑‍💻 <strong>Python</strong> 🎯 <strong>TypeScript</strong> <strong>JavaScript</strong><br>
+    💬 <strong>Análisis de Requerimientos</strong>
+  </p>
+</div>
 
 
 
