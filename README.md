@@ -20,7 +20,7 @@
 ---
 <div align="center">
   <p align="center">
-    🎓 <strong>Técnico en Programación y Análisis de Sistemás</strong> - <strong>DuocUC</strong><br>
+    🎓 <strong>Técnico en Programación y Análisis de Sistemás</strong>
     💡 <strong>Desarrollador Fullstack</strong>
   </p>
 </div>
