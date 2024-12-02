@@ -19,7 +19,7 @@
 
 ---
 <div class="flex items-center justify-center">
-  <p align="justify">
+  <p align="justify" class="py-28">
    🎓 <strong>Técnico en Programación y Análisis de Sistemás</strong> - <strong>DuocUC</strong><br>
     🔧 <strong>Backend & Frontend Developer</strong> | <strong>Node.js</strong> ⚡ <strong>React.js</strong> ⚙️ <strong>Next.js</strong> 🛠️ <strong>Express.js</strong><br>
     📊 <strong>Bases de Datos</strong>: <strong>PostgreSQL</strong> 🗃️ <strong>MySQL</strong> 💡 <strong>Prisma</strong><br>
