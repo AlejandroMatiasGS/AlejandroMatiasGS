@@ -20,7 +20,7 @@
 ---
 <div align="center">
   <p align="center">
-    🎓 <strong>Técnico en Programación y Análisis de Sistemás</strong> <br>
+    🎓 <strong>Técnico de nivel Superior en Programación y Análisis de Sistemás</strong> <br>
     💡 <strong>Desarrollador Fullstack</strong>
   </p>
 </div>
